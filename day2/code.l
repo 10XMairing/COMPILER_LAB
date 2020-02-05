@@ -12,7 +12,7 @@ auto|double|int|struct|break|else|long|switch|case|enum|register|typedef|char|ex
 
 [{};,()]   {printf("\tSEPERATOR\t");}	
 
-[!@#$%^&)]   {printf("\tOPERATOR\t");}	
+[+-/=*%]   {printf("\tOPERATOR\t");}		
 
 
 [!@#$&]   {printf("\tSPECIAL CHARACTERS\t");}	
