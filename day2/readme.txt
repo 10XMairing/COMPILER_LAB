@@ -1,0 +1,1 @@
+Q  : Write a lex program to idenfify KEYWORDS, OPERATORS & IDENTIFIERS.
