@@ -1,0 +1,1 @@
+write a lex program to count the no of lines words specialchars letters in a program
